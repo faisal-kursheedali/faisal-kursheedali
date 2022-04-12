@@ -11,7 +11,7 @@
 - 📫 Reach me on: <a href="https://twitter.com/faisal_devop/">Twitter</a>, <a href="https://www.linkedin.com/in/faisal-k-4a02801b2/">Linkedin</a>,  <a href="https://www.instagram.com/demented_devops/">Instagram</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NO fun on Coding.
-- 📚 Read my blog on :  <a href="https://hashnode.com/@fellofazz">MY Blog page</a>
+- 📚 Read my blog on :  <a href="https://faisal-blog.hashnode.dev/">MY Blog page</a>
 
 🛑 To know more about me click 👉 <a href="https://faisal-webpage.netlify.app/">FAISAL</a>
 
