@@ -1,8 +1,12 @@
 ### Hi there 👋
 ### I am FAISAL
 
+<h3>🛑 Note : </h3>
+<div>If you are from the <strong>NEOG boot camp</strong>, then this is for you only. If you are not, then you can skip this part of my profile. There are many repositories in my GitHub account, so it will be difficult for you to find all of my level 1 projects separately. So I kept all my level-one projects in one place, inside this GitHub bookmark list <b>"Neog level 1"</b>. This is where you'll find all my level-one projects of NeoG Boot Camp. You can directly go to that list using this link without wasting any of your precious time <a href="https://github.com/stars/faisal-kursheedali/lists/neog-level-1">Neog level 1</a>.</div>
 
 
+<br>
+<hr>
 
 - 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT [ES6],REACT.
 - 👯 I’m looking to collaborate on coding in React⚛️
