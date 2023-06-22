@@ -14,7 +14,10 @@
 - ⚡ Fun fact: NO fun on Coding.
 - 📚 Read my blog on :  <a href="https://faisal-blog.hashnode.dev/">MY Blog page</a>
 
-🛑 To know more about me click 👉 <a href="https://faisal-webpage.netlify.app/">FAISAL</a>
+🛑 To know more about me click 👉 <a href="https://faisal-app.netlify.app/">FAISAL</a>
+
+[comment]: #  (<a href="https://faisal-webpage.netlify.app/">FAISAL</a>)
+
 
 <br/>
 <image src="https://github-readme-stats.vercel.app/api?username=faisal-kursheedali&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
