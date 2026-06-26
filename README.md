@@ -15,8 +15,6 @@
   <a href="https://twitter.com/faisal_devop"><img src="https://img.shields.io/badge/-@faisal__devop-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
----
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
 ## 🛠 Tech Stack
@@ -63,8 +61,6 @@
 
 <br clear="right"/>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,4 +72,6 @@
   <img src="https://streak-stats.demolab.com?user=faisal-kursheedali&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
