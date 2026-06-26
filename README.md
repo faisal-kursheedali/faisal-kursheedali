@@ -1,23 +1,79 @@
-### Hi there 👋
-### I am FAISAL
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-[comment]: # (<h3>🛑 Note : </h3>)
-[comment]: # (<div>If you are from the <strong>NEOG boot camp</strong>, then this is for you only. If you are not, then you can skip this part of my profile. There are many repositories in my GitHub account, so it will be difficult for you to find all of my level 1 projects separately. So I kept all my level-one projects in one place, inside this GitHub bookmark list <b>"Neog level 1"</b>. This is where you'll find all my level-one projects of NeoG Boot Camp. You can directly go to that list using this link without wasting any of your precious time <a href="https://github.com/stars/faisal-kursheedali/lists/neog-level-1">Neog level 1</a>.</div>)
-<hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" />
+</p>
 
-- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT [ES6],REACT.
-- 👯 I’m looking to collaborate on coding in React⚛️
-- 🤔 I’m looking for help with React⚛️
-- 💬 Ask me about Web development on social media
-- 📫 Reach me on: <a href="https://twitter.com/faisal_devop/">Twitter</a>, <a href="https://www.linkedin.com/in/faisal-k-4a02801b2/">Linkedin</a>,  <a href="https://www.instagram.com/demented_devops/">Instagram</a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: NO fun on Coding.
-- 📚 Read my blog on :  <a href="https://faisal-blog.hashnode.dev/">MY Blog page</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=SDE;AI%2FML+Engineer;Computer+Vision+Engineer;Building+with+LLMs+%26+RAG;Full-Stack+Developer;Frontend+Developer;MERN+Stack+Developer;Flutter+Developer;Backend+%26+API+Engineer" />
+</p>
 
-🛑 To know more about me click 👉 <a href="https://faisal-app.netlify.app/">FAISAL</a>
+<p align="center">
+  <a href="https://linkedin.com/in/faisal-kursheedali"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://faisal-app.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=netlify"/></a>
+  <a href="mailto:faisal.k.ison@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/faisal_devop"><img src="https://img.shields.io/badge/-@faisal__devop-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
 
-[comment]: #  (<a href="https://faisal-webpage.netlify.app/">FAISAL</a>)
+---
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
-<br/>
-<!--<image src="https://github-readme-stats.vercel.app/api?username=faisal-kursheedali&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>-->
+## 🛠 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/-YOLOv11-00FFFF?style=for-the-badge&logoColor=black)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-kursheedali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-kursheedali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faisal-kursheedali&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
