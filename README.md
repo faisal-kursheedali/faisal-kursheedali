@@ -15,11 +15,9 @@
   <a href="https://twitter.com/faisal_devop"><img src="https://img.shields.io/badge/-@faisal__devop-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-## 🛠 Tech Stack
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-<table border="0">
-<tr>
-<td valign="top" width="55%">
+## 🛠 Tech Stack
 
 **Frontend**
 
@@ -34,15 +32,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</td>
-<td valign="middle" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
 
 **Backend**
 
@@ -69,6 +58,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+<br clear="right"/>
 
 ## 📊 GitHub Stats
 
