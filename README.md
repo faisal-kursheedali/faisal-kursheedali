@@ -15,7 +15,7 @@
   <a href="https://twitter.com/faisal_devop"><img src="https://img.shields.io/badge/-@faisal__devop-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> -->
 
 ## 🛠 Tech Stack
 
