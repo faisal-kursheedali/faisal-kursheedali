@@ -78,12 +78,13 @@
     <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-icon.svg" height="195" />
   </picture>
   -->
-  <!-- Dynamic variant (active): grade circle if B or better, else GitHub icon -->
+  <!-- Dynamic variant: grade circle if B or better, else GitHub icon
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-dynamic.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light-dynamic.svg" />
     <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-dynamic.svg" height="195" />
   </picture>
+  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-light.svg" />
