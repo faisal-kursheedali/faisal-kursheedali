@@ -64,8 +64,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/faisal-kursheedali/images/generated/overview.svg" height="195" />
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/faisal-kursheedali/images/generated/languages.svg" height="195" />
+  <img src="https://github.com/faisal-kursheedali/github-stats/blob/generated/overview.svg#gh-dark-mode-only" height="195" />
+  <img src="https://github.com/faisal-kursheedali/github-stats/blob/generated/overview.svg#gh-light-mode-only" height="195" />
+  <img src="https://github.com/faisal-kursheedali/github-stats/blob/generated/languages.svg#gh-dark-mode-only" height="195" />
+  <img src="https://github.com/faisal-kursheedali/github-stats/blob/generated/languages.svg#gh-light-mode-only" height="195" />
 </p>
 
 <p align="center">
