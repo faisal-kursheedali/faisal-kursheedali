@@ -71,7 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak.svg" />
+  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-light.svg#gh-light-mode-only" />
 </p>
 
 <p align="center">
