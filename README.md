@@ -64,13 +64,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./generated/overview.svg" height="195" />
+  <img src="./generated/languages.svg" height="195" />
+</p>
+
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=faisal-kursheedali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faisal-kursheedali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=faisal-kursheedali&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
