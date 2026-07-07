@@ -64,8 +64,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./generated/overview.svg" height="195" />
-  <img src="./generated/languages.svg" height="195" />
+  <img src="https://raw.githubusercontent.com/faisal-kursheedali/faisal-kursheedali/images/generated/overview.svg" height="195" />
+  <img src="https://raw.githubusercontent.com/faisal-kursheedali/faisal-kursheedali/images/generated/languages.svg" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faisal-kursheedali&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- <p align="center">

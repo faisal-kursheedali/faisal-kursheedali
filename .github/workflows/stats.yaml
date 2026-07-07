@@ -6,21 +6,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: jstrieb/github-stats@master
+      - uses: actions/checkout@v4
         with:
-          username: faisal-kursheedali
-          exclude_repos: ""
-          exclude_langs: ""
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          repository: "jstrieb/github-stats"
 
-      - name: Commit updated SVGs
+      - name: Generate images
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add generated/*.svg || true
-          git diff --staged --quiet || git commit -m "chore: update GitHub stats SVGs"
-          git push
+          pip install --upgrade -r requirements.txt
+          python3 generate_images.py
+        env:
+          GITHUB_ACTOR: faisal-kursheedali
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          EXCLUDED: ""
+          EXCLUDED_LANGS: ""
+          EXCLUDE_FORKED_REPOS: "false"
+
+      - name: Deploy to images branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          publish_branch: images
+          publish_dir: ./generated
+          commit_message: "chore: update GitHub stats SVGs"
