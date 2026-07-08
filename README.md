@@ -64,10 +64,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Grade variant (always shows the letter grade circle)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light.svg" />
     <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" height="195" />
+  </picture>
+  -->
+  <!-- Icon variant (always shows the GitHub logo instead of a grade)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-icon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light-icon.svg" />
+    <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-icon.svg" height="195" />
+  </picture>
+  -->
+  <!-- Dynamic variant (active): grade circle if B or better, else GitHub icon -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-dynamic.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light-dynamic.svg" />
+    <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-dynamic.svg" height="195" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-dark.svg" />
