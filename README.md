@@ -64,15 +64,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/overview.svg#gh-dark-mode-only" height="195" />
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/overview.svg#gh-light-mode-only" height="195" />
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages.svg#gh-dark-mode-only" height="195" />
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages.svg#gh-light-mode-only" height="195" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light.svg" />
+    <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" height="195" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-light.svg" />
+    <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/languages-dark.svg" height="195" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-light.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-light.svg" />
+    <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/streak-dark.svg" />
+  </picture>
 </p>
 
 <p align="center">
