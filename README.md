@@ -64,13 +64,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Grade variant (always shows the letter grade circle)
+  Grade variant (always shows the letter grade circle)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-light.svg" />
     <img src="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark.svg" height="195" />
   </picture>
-  -->
+ 
   <!-- Icon variant (always shows the GitHub logo instead of a grade)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-kursheedali/github-stats/generated/stats-dark-icon.svg" />
